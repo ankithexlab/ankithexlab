@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently building AI-powered cybersecurity tools and secure web applications.<br><br>🤝 Open to collaborating on open-source, cybersecurity, full-stack, and AI projects.<br><br>🛠️ Exploring Artificial Intelligence & Machine Learning, Cybersecurity, Cloud Security, and DevSecOps.<br><br>🌱 Currently learning web application security, cloud security, blockchain, full-stack development, and data structures & algorithms.<br><br>💬 Ask me about Python, C, C++, Linux, networking, web security, Git, and GitHub.<br><br>⚡ Aspiring security engineer and Full-Stack Developer passionate about building secure, scalable, and impactful software.
+🔭 Currently building AI-powered cybersecurity tools and secure web applications.<br><br>🤝 Open to collaborating on open-source, cybersecurity, full-stack, and AI projects.<br><br>🛠️ Exploring Artificial Intelligence & Machine Learning, Cybersecurity, and Cloud Security. <br><br>🌱 Currently learning web application security, cloud security, blockchain, full-stack development, and data structures & algorithms.<br><br>💬 Ask me about Python, C, C++, Linux, networking, web security, Git, and GitHub.<br><br>⚡ Aspiring security engineer and Full-Stack Developer passionate about building secure, scalable, and impactful software.
 
 
 ## 🌐 Socials:
